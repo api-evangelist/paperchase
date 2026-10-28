@@ -65,4 +65,15 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 Paperchase is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://paperchase.co.uk/
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://paperchase.co.uk/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/paperchase/](https://apis.io/providers/paperchase/).
